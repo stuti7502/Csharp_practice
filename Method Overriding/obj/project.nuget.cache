@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOr0kNSK+HfwZbjlVObSKxSQrK1dRd9V3t8lNWT3Tg20YbUZ1PniUtLzitiWhIejGvV1/ImYn1XyR4ldjh770g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\HelloWorld\\Method Overriding\\Method Overriding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

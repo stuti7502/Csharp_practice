@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\bin\Debug\net6.0\Method Parameters.exe
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\bin\Debug\net6.0\Method Parameters.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\bin\Debug\net6.0\Method Parameters.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\bin\Debug\net6.0\Method Parameters.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\bin\Debug\net6.0\Method Parameters.pdb
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\refint\Method Parameters.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.pdb
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\Method Parameters.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Parameters\obj\Debug\net6.0\ref\Method Parameters.dll

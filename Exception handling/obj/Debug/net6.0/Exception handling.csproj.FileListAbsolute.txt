@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\bin\Debug\net6.0\Exception handling.exe
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\bin\Debug\net6.0\Exception handling.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\bin\Debug\net6.0\Exception handling.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\bin\Debug\net6.0\Exception handling.dll
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\bin\Debug\net6.0\Exception handling.pdb
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.dll
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\refint\Exception handling.dll
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.pdb
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\Exception handling.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Exception handling\obj\Debug\net6.0\ref\Exception handling.dll

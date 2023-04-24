@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wnmL0B9qU3Fdarmn7nI11kUrbp7GA92LsjCvFhHbnIC8jhvnn8bacMY2XIiIo9ugxcfU+P5xXkFsv+uSNrcGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\HelloWorld\\Delegates\\Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
