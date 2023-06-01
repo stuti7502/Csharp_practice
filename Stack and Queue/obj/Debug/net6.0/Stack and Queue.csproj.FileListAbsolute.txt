@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\bin\Debug\net6.0\Stack and Queue.exe
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\bin\Debug\net6.0\Stack and Queue.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\bin\Debug\net6.0\Stack and Queue.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\bin\Debug\net6.0\Stack and Queue.dll
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\bin\Debug\net6.0\Stack and Queue.pdb
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.dll
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\refint\Stack and Queue.dll
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.pdb
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\Stack and Queue.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Stack and Queue\obj\Debug\net6.0\ref\Stack and Queue.dll

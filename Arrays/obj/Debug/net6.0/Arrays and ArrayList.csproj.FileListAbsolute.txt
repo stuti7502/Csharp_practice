@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Arrays\bin\Debug\net6.0\Arrays and ArrayList.exe
+C:\Users\stuti\source\repos\HelloWorld\Arrays\bin\Debug\net6.0\Arrays and ArrayList.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Arrays\bin\Debug\net6.0\Arrays and ArrayList.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Arrays\bin\Debug\net6.0\Arrays and ArrayList.dll
+C:\Users\stuti\source\repos\HelloWorld\Arrays\bin\Debug\net6.0\Arrays and ArrayList.pdb
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.dll
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\refint\Arrays and ArrayList.dll
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.pdb
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\Arrays and ArrayList.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Arrays\obj\Debug\net6.0\ref\Arrays and ArrayList.dll

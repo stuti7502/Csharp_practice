@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Collection\bin\Debug\net6.0\Collection.exe
+C:\Users\stuti\source\repos\HelloWorld\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\stuti\source\repos\HelloWorld\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Collection\obj\Debug\net6.0\ref\Collection.dll

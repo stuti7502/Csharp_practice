@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\bin\Debug\net6.0\Partial Class.exe
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\bin\Debug\net6.0\Partial Class.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\bin\Debug\net6.0\Partial Class.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\bin\Debug\net6.0\Partial Class.dll
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\bin\Debug\net6.0\Partial Class.pdb
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.dll
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\refint\Partial Class.dll
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.pdb
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\Partial Class.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Partial Class\obj\Debug\net6.0\ref\Partial Class.dll

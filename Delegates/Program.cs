@@ -1,50 +1,107 @@
-﻿//Delegates
-//safe function pointer
-//ref type
+﻿////Delegates
+////safe function pointer
+////ref type
 
-public delegate void HelloDelegate(string msg);
-public delegate void multidelegate();
+//public delegate void HelloDelegate(string msg);
+//public delegate void multidelegate();
 
+//class Program
+//{
+//    public static void Main()
+//    {
+//        HelloDelegate hd = new HelloDelegate(Hello);
+//        hd("Hey there!");
+
+//        //multicast delegate
+//        multidelegate del1, del2, del3, del4;
+//        del1 = new multidelegate(Multidelegate1);
+//        del2 = new multidelegate(Multidelegate2);
+//        del3 = new multidelegate(Multidelegate3);
+
+//        del4 = del1 + del2 + del3;
+//        del4();
+
+//        //OR
+//        multidelegate del = new multidelegate(Multidelegate1);
+//        del += Multidelegate2;
+//        del += Multidelegate3;
+//        del();
+
+//    }
+
+//    public static void Hello(string message)
+//    {
+//        Console.WriteLine(message);
+//    }
+
+//    //multicast delegates
+//    public static void Multidelegate1()
+//    {
+//        Console.WriteLine("first delegate");
+//    }
+//    public static void Multidelegate2()
+//    {
+//        Console.WriteLine("second delegate");
+//    }
+//    public static void Multidelegate3()
+//    {
+//        Console.WriteLine("third delegate");
+//    }
+//}
+
+public delegate void HelloDelgate(string y);
 class Program
 {
-    public static void Main()
+    static void Main()
     {
-        HelloDelegate hd = new HelloDelegate(Hello);
-        hd("Hey there!");
+        
+        Console.WriteLine("Enter your name");
+        string a = Console.ReadLine();
 
-        //multicast delegate
-        multidelegate del1, del2, del3, del4;
-        del1 = new multidelegate(Multidelegate1);
-        del2 = new multidelegate(Multidelegate2);
-        del3 = new multidelegate(Multidelegate3);
+        HelloDelgate hd; //create an instance
+        hd = welcome; //points to function
+        hd.Invoke(a); //invoking delegate or hd(a);
 
-        del4 = del1 + del2 + del3;
-        del4();
+        Notify obj = new Notify();
+        obj.delegateEvent += subscriber1.sub1;
+        obj.delegateEvent += subscriber2.sub2;
 
-        //OR
-        multidelegate del = new multidelegate(Multidelegate1);
-        del += Multidelegate2;
-        del += Multidelegate3;
-        del();
-
+        obj.NotifyUser(a); //this method calls delegate
     }
+    static void welcome(string x)
+    {
+        Console.WriteLine("Hello " + x);
+    }
+    
+    
+}
+//define an event which notifies user
+class Notify
+{
+    public HelloDelgate delegateEvent; //delegate of type HelloDelegate
 
-    public static void Hello(string message)
+    //method which will call this event
+    public void NotifyUser(string x)
     {
-        Console.WriteLine(message);
+        if (delegateEvent != null)
+        {
+            delegateEvent(x);
+        }
     }
+}
 
-    //multicast delegates
-    public static void Multidelegate1()
+class subscriber1
+{
+    public static void sub1(string x)
     {
-        Console.WriteLine("first delegate");
+        Console.WriteLine("Recieved event by 1");
     }
-    public static void Multidelegate2()
+}
+
+class subscriber2
+{
+    public static void sub2(string x)
     {
-        Console.WriteLine("second delegate");
-    }
-    public static void Multidelegate3()
-    {
-        Console.WriteLine("third delegate");
+        Console.WriteLine("Recieved event by 2");
     }
 }

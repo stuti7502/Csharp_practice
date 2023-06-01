@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrRcThoCo8lHKP5u1gH2ADC3mzoziGF1mVrt/4Tf5AUTV/vz6xkaIK1NCqLnWBLt2vAZDbrSiIfhO2vgRMwAvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\HelloWorld\\Hashtable, SortedList and dictionary\\Hashtable, SortedList and dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -21,12 +21,12 @@ class Program
         //out parameters
         int Total = 0;
         int Product = 0;
-        Calculate(10, 20, out Total, out Product);
+        Calculate(out Total, out Product);
         Console.WriteLine("Sum = {0} & Product = {0}", Total, Product);
 
         //Parameter Arrays
-        int[] numbers = { 5, 6, 7 };
-        ArrayParam(numbers);
+        //int[] numbers = { 5, 6, 7 };
+        //ArrayParam(numbers);
         //OR
         ArrayParam(1, 2, 3);
     }
@@ -44,10 +44,11 @@ class Program
     }
 
     //out paramentes
-    public static void Calculate(int first, int second, out int Sum, out int Product)
+    public static void Calculate(out int Sum, out int Product)
     {
-        Sum = first + second;
-        Product = first * second;
+        Sum = 10 + 20;
+        Product = 10 * 20;
+
     }
 
     //Parameter Arrays

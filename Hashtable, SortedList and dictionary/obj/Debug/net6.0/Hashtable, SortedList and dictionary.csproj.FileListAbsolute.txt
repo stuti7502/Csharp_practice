@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\bin\Debug\net6.0\Hashtable, SortedList and dictionary.exe
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\bin\Debug\net6.0\Hashtable, SortedList and dictionary.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\bin\Debug\net6.0\Hashtable, SortedList and dictionary.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\bin\Debug\net6.0\Hashtable, SortedList and dictionary.dll
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\bin\Debug\net6.0\Hashtable, SortedList and dictionary.pdb
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.dll
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\refint\Hashtable, SortedList and dictionary.dll
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.pdb
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\Hashtable, SortedList and dictionary.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Hashtable, SortedList and dictionary\obj\Debug\net6.0\ref\Hashtable, SortedList and dictionary.dll

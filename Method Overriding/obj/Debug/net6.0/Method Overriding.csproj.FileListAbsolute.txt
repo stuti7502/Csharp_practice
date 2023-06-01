@@ -1,0 +1,15 @@
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\bin\Debug\net6.0\Method Overriding.exe
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\bin\Debug\net6.0\Method Overriding.deps.json
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\bin\Debug\net6.0\Method Overriding.runtimeconfig.json
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\bin\Debug\net6.0\Method Overriding.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\bin\Debug\net6.0\Method Overriding.pdb
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.csproj.AssemblyReference.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.AssemblyInfoInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.AssemblyInfo.cs
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.csproj.CoreCompileInputs.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\refint\Method Overriding.dll
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.pdb
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\Method Overriding.genruntimeconfig.cache
+C:\Users\stuti\source\repos\HelloWorld\Method Overriding\obj\Debug\net6.0\ref\Method Overriding.dll

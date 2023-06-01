@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJRQEbZmTKbyy5iXWTFfqrK6Q/QuuMqjugns871p2YNqTKiKT08Eqo4m1AQ+DYZi8yoKk9eQIpeMMrvkd9E2jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuti\\source\\repos\\HelloWorld\\Partial Class\\Partial Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\stuti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
